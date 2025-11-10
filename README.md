@@ -2,7 +2,6 @@
 ### From Naive Baseline to Advanced Query Rewriting & Reranking Pipelines
 
 **Author:** Shaurya Gulati  
-**Course:** Natural Language Processing (NLX Assignment 2)  
 **Institution:** Carnegie Mellon University  
 **Technologies:** Python, HuggingFace Transformers, Sentence-Transformers, Milvus Lite, Flan-T5, Cross-Encoder  
 
